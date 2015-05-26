@@ -1,0 +1,15 @@
+body {
+    position: relative;
+}
+
+#footer {
+    background-color: #f8f8f8;
+}
+
+.bottom-buffer {
+    padding-bottom: 20px;
+}
+
+.content-area {
+    min-height: 660px;
+}
